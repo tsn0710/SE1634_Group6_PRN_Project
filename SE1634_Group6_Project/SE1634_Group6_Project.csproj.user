@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminManageSongs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddSongs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyMusic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditAddMusic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form99.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlayerGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
